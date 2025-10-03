@@ -138,8 +138,6 @@ For issues and questions:
 - Review configuration settings
 - Ensure sufficient SOL balance
 - Verify token addresses are correct
-- Check Jupiter API status
+- Check Jupiter API statu
 
-## License
 
-This project is licensed under the MIT License.
