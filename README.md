@@ -23,7 +23,7 @@ Kana Sniper Bot is a sophisticated trading automation tool built for the Solana 
 ### Risk Management
 - Configurable stop loss and take profit levels
 - Slippage control for trade execution
-- Liquidity validation ($250+ minimum)
+- Liquidity validation 
 - Price impact monitoring (below 30%)
 
 ## Installation
